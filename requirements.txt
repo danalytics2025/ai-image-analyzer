@@ -1,1 +1,1 @@
-streamlitpillowpiexifnumpyopenai
+streamlitpillowpiexifnumpyopencv-pythonopenai
